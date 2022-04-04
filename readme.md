@@ -1,10 +1,8 @@
----
-title: "2d tissue simulator"
-author: "A. Gabor"
+# 2d tissue simulator
+
+author: Attila Gabor  
 contact: attila.gabor@uni-heidelberg.de  
-date: '2022-04-04'
-output: html_document
----
+date: 2022-04-04
 
 
 This repo contains the code and data used to generate the insilico data for the 
@@ -94,5 +92,5 @@ the definition of the reaction-diffusion system.
 3. run the case study script line by line
 `case_studies/insilico_IMC_generator_TIGER_config_v8_single.R`
 
-license: GPL-v2
+license: GPL-v3
 
