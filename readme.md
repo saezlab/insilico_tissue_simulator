@@ -9,6 +9,7 @@ This repo contains the code and data used to generate the insilico data for the
 paper:  
 Tanevski et al (2022) **Explainable multi-view framework for dissecting inter-cellular signaling from highly multiplexed spatial data**, *Genome Biology*, in print. 
 
+Note for visitors from biorxiv: the simulator here is for the published version of the paper. We considerably increased the size of the intracellular signaling networks of the cell types during the review process. 
 
 # Dependencies
 Note that this repo is not an R package. Dependencies are scattered in scripts 
