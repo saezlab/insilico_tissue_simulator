@@ -7,7 +7,7 @@ date: 2022-04-04
 
 This repo contains the code and data used to generate the insilico data for the 
 paper:  
-Tanevski et al (2022) **Explainable multi-view framework for dissecting inter-cellular signaling from highly multiplexed spatial data**, *MSB*, in print. 
+Tanevski et al (2022) **Explainable multi-view framework for dissecting inter-cellular signaling from highly multiplexed spatial data**, *Genome Biology*, in print. 
 
 
 # Dependencies
